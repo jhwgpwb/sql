@@ -10,6 +10,7 @@
     * This markdown (Assignment1.md) with written responses in Section 4
     * One Entity-Relationship Diagram (preferably in a pdf, jpeg, png format).
     * One .sql file 
+
 * What the pull request link should look like for this assignment: `https://github.com/<your_github_username>/sql/pulls/<pr_id>`
     * Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
 
@@ -91,6 +92,8 @@ I diagramed the following four tables:
 
 #### Prompt 1:
 Choose two tables and create a logical data model. There are lots of tools you can do this (including drawing this by hand), but I'd recommend [Draw.io](https://www.drawio.com/) or [LucidChart](https://www.lucidchart.com/pages/). 
+
+
 
 A logical data model must contain:
 - table name
@@ -205,5 +208,18 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 
 ```
-Your thoughts...
+
+
+
+The article “When Databases Get to Define Family” reveals how digital systems embed moral assumptions about identity and legitimacy. Pakistan’s national ID database, designed to modernize recordkeeping, requires every citizen to be linked to two married parents. What seems like a technical rule becomes a statement about what counts as a valid life. This pattern is not unique to one country. Many databases encountered in daily life, quietly enforce similar expectations of normality.
+Data systems appear neutral, yet each field reflects decisions about whose realities are valid. Online forms demand permanent addresses, binary gender options, or family names, assuming stable households and heteronormative structures. When a person’s circumstances do not match these assumptions, the system resists recognition. Efficiency then disguises exclusion. What is omitted from data—fluid families, non-binary identities, informal housing—reveals the limits of fairness as defined by design. Institutional databases often claim to promote fairness or transparency, but fairness is restricted to what can be measured. Health records, for instance, usually record only “male” or “female,” erasing transgenders. Employment or census data simplify complex work arrangements, ignoring informal or unpaid labor. Fairness, in this sense, means equal treatment within an unequal framework: being counted only if one fits the template.
+Such biases usually stem from inherited administrative habits rather than deliberate prejudice, but their ethical impact cannot be ignored. Groups do not fit established categories become invisible in policy and research. Public health datasets rarely capture undocumented residents or people without stable housing; when they are absent from statistics, they are also absent from public priorities. A missing record translates into moral neglect.
+Databases also express unequal power relationships. Individuals constantly provide personal information to governments, universities, or private platforms yet have little control over its interpretation or reuse. Those institutions define the categories and own the infrastructure. Even systems claiming to empower users—student dashboards, health apps—measure participation through narrow metrics such as login counts or appointment compliance. These quantifications reward certain behaviors and penalize others, establishing quiet hierarchies of worth.
+Marginalization through data often occurs through simplification. Populations labeled “other” or “non-specified” lose individuality and political visibility. Migrants, racialized minorities, and people with disabilities are statistically present but analytically invisible. Algorithms trained on such biased data reproduce the same exclusions. Predictive tools for credit, hiring, or health risk turn historical inequality into automated judgment. A neighborhood once classified as “high risk” remains stigmatized because fairness is defined statistically, not socially.
+Another concern is the authority of the record itself. Once information enters a system, it gains permanence and legitimacy. Errors or outdated categories are difficult to correct because systems privilege consistency over flexibility. Bureaucratic responses like “the system doesn’t allow it” illustrate how technical constraints become moral barriers. When exceptions cannot be processed, human realities are forced to fit computational order.
+Ethical data practice therefore depends on how systems define categories in the first place. Neutrality is impossible; every schema reflects social choices. A more just approach requires designing for ambiguity and change—allowing optional fields, open-ended categories, and periodic revision. Databases should adapt as social norms evolve rather than freezing them in code. Participatory design, where affected communities help decide what data matters, can expose blind spots and redistribute authority over representation. The ethics of fairness extends beyond statistical parity to the structure of recognition itself. Equality cannot mean treating every record the same if some lives remain unrecorded or misclassified. Fair systems must be able to represent difference without turning it into error. Flexibility, transparency, and accountability are moral as much as technical principles.
+In daily life, people are surrounded by databases. They determine access to healthcare, credit, education, and even movement across borders. Databases should serve people, not define them. As technology becomes more pervasive, the demand for fairness must expand beyond statistical precision to encompass moral imagination—the capacity to see and include what does not fit the template.
+
+
+
 ```
